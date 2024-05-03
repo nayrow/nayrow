@@ -8,8 +8,8 @@ I'm a highschool student that wanted to learn how to develop web applications an
 
 * 🌍  I'm based in Brasov, Romania
 * 🖥️  See my portfolio at [Pasere Sebastian](http://paseresebastian.cns-media.com)
-* ✉️  You can contact me at [paseresebastian@cns-media.ro](mailto:paseresebastian@cns-media.ro)
-* 🚀  I'm currently working on [AI volleyball statistics app](http://vb.cns-media.ro)
+* ✉️  You can contact me at [paseresebastian@cns-media.ro](mailto:paseresebastian@cns-media.com)
+* 🚀  I'm currently working on [AI volleyball statistics app](http://vb.cns-media.com)
 * 🧠  I'm learning AI implementation in Next JS
 * 🤝  I'm open to collaborating on interesting projects
 
