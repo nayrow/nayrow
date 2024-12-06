@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm a highschool student that wanted to learn how to develop web applications and learned it by myself
+I'm a university student that wanted to learn how to develop web applications and learned it by myself
 
-* 🌍  I'm based in Brasov, Romania
+* 🌍  I'm based in Bucharest, Romania
 * 🖥️  See my portfolio at [Pasere Sebastian](http://paseresebastian.cns-media.com)
 * ✉️  You can contact me at [paseresebastian@cns-media.ro](mailto:paseresebastian@cns-media.com)
-* 🚀  I'm currently working on [AI volleyball statistics app](http://vb.cns-media.com)
+* 🚀  I'm currently working on [Restaurant Management App](https://restauranty.net)
 * 🧠  I'm learning AI implementation in Next JS
 * 🤝  I'm open to collaborating on interesting projects
 
